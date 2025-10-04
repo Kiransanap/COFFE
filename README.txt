@@ -1,0 +1,1 @@
+Coffee Sales project\nFiles:\n- coffee_sales.csv : sample dataset\n- analyze_coffee.py : simple analysis script\nUse: python analyze_coffee.py
